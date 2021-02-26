@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ZenvaTestSave
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 9441fb3d8214048ee87e614e124a343d, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: b951b64b42be2844691380badba762e9, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8900000, guid: da06f49c73620cf499ea175db6ecc5af, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6779876153249650859, guid: 0aab3f6c2cf3e1a48931877215e5ae51,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: a7cc6764aaa1db641ac1ebdc0fe73c97, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 4562278095271958026, guid: f6c84eab2a63e9a4fb0f552f064cb65b,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 3839977344141895644, guid: 6523689a18c21a44888ffeff6a7db8ef,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 1145976772475484, guid: 530caad4e68e0364da05d983fba2bd8d,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 08dbe4698657dca4fae174073e56fb60, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 1ed3f98db53abde438d775002009b3c7, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 100000, guid: c2f628e62eb74c8448d37957b681a752, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: -927199367670048503, guid: 61fb1ccb2f8f5dc47a7f5612e6004822,
+      type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 46635640e03d04a439f8383bf5f3afde, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 62bdc4d3d74970a4e8d1628ee651524f, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
